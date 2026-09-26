@@ -211,26 +211,6 @@ Raw Dataset (online_retail.csv)
 
 ---
 
-## 📊 Sample Outputs
-
-### EDA Results:
-- Dataset: 500K+ transactions
-- Countries: 37 different markets
-- Products: 4000+ unique items
-- Time Period: 2010-2011
-
-### Sentiment Analysis:
-- Most products have positive descriptions
-- Strong correlation between sentiment and sales
-- Key findings in sentiment distribution charts
-
-### Web Scraping:
-- Successfully scraped 50+ books
-- Captured price and availability info
-- Ready for further analysis
-
----
-
 
 
 
